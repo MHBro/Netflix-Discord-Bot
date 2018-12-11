@@ -1,0 +1,27 @@
+{
+  "name": "netflix-discord-bot",
+  "version": "1.0.0",
+  "description": "Netflix Discord Bot new releases on Netflix Instant in your discord channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrDatastorage/Netflix-Discord-Bot.git"
+  },
+  "keywords": [
+    "netflix",
+    "discord",
+    "bot"
+  ],
+  "author": "Victor Nizeyimana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrDatastorage/Netflix-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/MrDatastorage/Netflix-Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
