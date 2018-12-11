@@ -4,7 +4,7 @@
   "description": "Netflix Discord Bot new releases on Netflix Instant in your discord channel.",
   "main": "bot.js",
   "scripts": {
-    "test": "mocha"
+    "test": "echo \"Error: no test specified\""
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/MrDatastorage/Netflix-Discord-Bot#readme",
   "dependencies": {
-    "discord.js": "^11.4.2",
-    "mocha": "^5.2.0"
+    "discord.js": "^11.4.2"
   }
 }
