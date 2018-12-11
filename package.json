@@ -4,7 +4,7 @@
   "description": "Netflix Discord Bot new releases on Netflix Instant in your discord channel.",
   "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
