@@ -2,7 +2,7 @@
   "name": "netflix-discord-bot",
   "version": "1.0.0",
   "description": "Netflix Discord Bot new releases on Netflix Instant in your discord channel.",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
