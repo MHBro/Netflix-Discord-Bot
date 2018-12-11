@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/MrDatastorage/Netflix-Discord-Bot#readme",
   "dependencies": {
-    "discord.js": "^11.4.2"
+    "discord.js": "^11.4.2",
+    "mocha": "^5.2.0"
   }
 }
